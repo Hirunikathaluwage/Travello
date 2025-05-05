@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Travello2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Username">Username</string>
+    <string name="logoname">logoname</string>
+    <string name="Expire">Expire</string>
+    <string name="kaduwela_to_colpitty">Kaduwela to colpitty</string>
+    <string name="bus_no_689_view">Bus No 689 View</string>
+    <string name="bus_no_234_view">Bus No 234 View</string>
+    <string name="bus_no_17_view">Bus No 17 View</string>
+    <string name="bus_no_675_view">Bus No 675 View</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="register_now">Register now</string>
+    <string name="name">Name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_anew_password">Enter anew password</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="verify">Verify</string>
+    <string name="write_your_message">write your message</string>
+    <string name="kadawatha">Kadawatha</string>
+    <string name="galle">Galle</string>
+    <string name="booking">Booking</string>
+    <string name="pick_a_time">Pick a time</string>
+    <string name="seat_count">Seat count</string>
+    <string name="pick_the_bus_number">Pick the bus number</string>
+    <string name="search_for_a_bus">Search for a Bus</string>
+    <string name="highway_bus">Highway bus</string>
+    <string name="map">map</string>
+    <string name="my_profile">My Profile</string>
+    <string name="enter_your_address">Enter your Address</string>
+    <string name="email_address">Email Address</string>
+</resources>
