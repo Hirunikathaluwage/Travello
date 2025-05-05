@@ -1,2 +1,0 @@
-# Travello
-Android Mobile App
