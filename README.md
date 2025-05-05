@@ -1,4 +1,4 @@
-#**Travello **
+<u>Travello</u>
 
 This mobile app provides a real-time bus tracking system, allowing passengers to see the exact location of buses on a map and estimate their arrival times accurately. 
 It includes a complete timetable for highway buses, covering departure and arrival times along with pricing details. 
@@ -10,5 +10,3 @@ Features
     3. Trip scheduling and itinerary tracking
     4. Smart reminders and notifications.
     5. Offline support for saved trips
-
-    This has developed using kotlin and  java
